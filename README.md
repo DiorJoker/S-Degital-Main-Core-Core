@@ -13,7 +13,7 @@ S-Degitalの最もコアのみに焦点を当てたアプリケーション
 
 ### エレベータービッチ
 
-<font color="MediumVioletRed">あ、高橋さん、お疲れ様です。</font>
+伊藤：あ、高橋さん、お疲れ様です。
 
 <font color="SpringGreen">お、伊藤さん、お疲れ。</font>
 
